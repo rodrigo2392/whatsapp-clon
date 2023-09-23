@@ -4,11 +4,32 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+
+## Screenshoots
+![Screenshot_1695447637](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/22343b6d-f50e-4460-8259-e66a7f700d88)
+
+![Screenshot_1695447640](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/90305f2a-5d8d-4d97-8c1d-69b4b17f58ea)
+
+![Screenshot_1695447643](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/982eaf39-f252-463f-aa37-a3cf860c8a87)
+
+![Screenshot_1695447647](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/d61f2e73-49bd-4560-ab86-d426c8085aa6)
+
+![Screenshot_1695447649](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/9effe368-2dff-4eed-8b69-8867026c9d6a)
+
+![Screenshot_1695447653](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/68799e97-a6e6-496c-a51c-d3301622694e)
+
+![Screenshot_1695447656](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/c0d4711e-0862-4777-ad07-c2554f05c8da)
+
+
+
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
 To start Metro, run the following command from the _root_ of your React Native project:
+
+
 
 ```bash
 # using npm
