@@ -1,10 +1,3 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-# Getting Started
-
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-
 ## Screenshoots
 ![Screenshot_1695447637](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/22343b6d-f50e-4460-8259-e66a7f700d88)
 
