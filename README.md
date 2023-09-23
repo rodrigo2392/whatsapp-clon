@@ -1,93 +1,51 @@
-## Screenshoots
-![Screenshot_1695447637](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/22343b6d-f50e-4460-8259-e66a7f700d88)
+<h1 align="center">
+  <img src="/assets/logo.webp" width="150">
+<br>
+<br>
+Clon de Whatsapp usando React Native
+</h1>
 
-![Screenshot_1695447640](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/90305f2a-5d8d-4d97-8c1d-69b4b17f58ea)
+<p align="center">
+Recreando la interfáz básica de la aplicación de mensajería whatsapp usando React Native
+</p>
 
-![Screenshot_1695447643](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/982eaf39-f252-463f-aa37-a3cf860c8a87)
+<div align="center">
+   <img align="center" src="/assets/app.gif" width="230px">
+</div>
 
-![Screenshot_1695447647](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/d61f2e73-49bd-4560-ab86-d426c8085aa6)
+## Dependencias usadas
 
-![Screenshot_1695447649](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/9effe368-2dff-4eed-8b69-8867026c9d6a)
+- [React Native](https://reactnative.dev)
 
-![Screenshot_1695447653](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/68799e97-a6e6-496c-a51c-d3301622694e)
+- [React Navigation](https://reactnavigation.org)
 
-![Screenshot_1695447656](https://github.com/rodrigo2392/whatsapp-clon/assets/91278835/c0d4711e-0862-4777-ad07-c2554f05c8da)
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 
-
-
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-
-
+## Ejecutar el proyecto
+### Instalar dependencias
 ```bash
-# using npm
-npm start
+# con npm
+npm install
 
-# OR using Yarn
-yarn start
+# con yarn
+yarn install
 ```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
+### Ejecutar en android
 
 ```bash
-# using npm
+# con npm
 npm run android
 
-# OR using Yarn
+# con yarn
 yarn android
 ```
 
-### For iOS
+### Ejecutar en  iOS
 
 ```bash
-# using npm
+# con npm
 npm run ios
 
-# OR using Yarn
+# con yarn
 yarn ios
 ```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
